@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "coWorking.Models/1.0.0": {
+        "runtime": {
+          "coWorking.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coWorking.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

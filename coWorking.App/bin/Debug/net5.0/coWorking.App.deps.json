@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "coWorking.App/1.0.0": {
+        "dependencies": {
+          "coWorking.Data": "1.0.0",
+          "coWorking.Models": "1.0.0"
+        },
+        "runtime": {
+          "coWorking.App.dll": {}
+        }
+      },
+      "coWorking.Data/1.0.0": {
+        "dependencies": {
+          "coWorking.Models": "1.0.0"
+        },
+        "runtime": {
+          "coWorking.Data.dll": {}
+        }
+      },
+      "coWorking.Models/1.0.0": {
+        "runtime": {
+          "coWorking.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coWorking.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "coWorking.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "coWorking.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

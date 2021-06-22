@@ -1,0 +1,12 @@
+/home/paco/Dev/csharp/coWorking/coWorking.Models/bin/Debug/net5.0/coWorking.Models.deps.json
+/home/paco/Dev/csharp/coWorking/coWorking.Models/bin/Debug/net5.0/coWorking.Models.dll
+/home/paco/Dev/csharp/coWorking/coWorking.Models/bin/Debug/net5.0/ref/coWorking.Models.dll
+/home/paco/Dev/csharp/coWorking/coWorking.Models/bin/Debug/net5.0/coWorking.Models.pdb
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/coWorking.Models.csproj.AssemblyReference.cache
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/coWorking.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/coWorking.Models.AssemblyInfoInputs.cache
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/coWorking.Models.AssemblyInfo.cs
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/coWorking.Models.csproj.CoreCompileInputs.cache
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/coWorking.Models.dll
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/ref/coWorking.Models.dll
+/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/Debug/net5.0/coWorking.Models.pdb

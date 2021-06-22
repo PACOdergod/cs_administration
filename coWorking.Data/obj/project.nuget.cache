@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zG1PmnEa6MQ/4ro8rdkcOsmlQwvWgM1Vsu60QacJF9Uqr2Vm8Kj12c9pgptrUJz4KKq0Nq8w3+PuwGQFDig1fA==",
+  "success": true,
+  "projectFilePath": "/home/paco/Dev/csharp/coWorking/coWorking.Data/coWorking.Data.csproj",
+  "expectedPackageFiles": [
+    "/home/paco/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/paco/Dev/csharp/coWorking/coWorking.App/coWorking.App.csproj": {}
+  },
+  "projects": {
+    "/home/paco/Dev/csharp/coWorking/coWorking.App/coWorking.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/paco/Dev/csharp/coWorking/coWorking.App/coWorking.App.csproj",
+        "projectName": "coWorking.App",
+        "projectPath": "/home/paco/Dev/csharp/coWorking/coWorking.App/coWorking.App.csproj",
+        "packagesPath": "/home/paco/.nuget/packages/",
+        "outputPath": "/home/paco/Dev/csharp/coWorking/coWorking.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/paco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/paco/Dev/csharp/coWorking/coWorking.Data/coWorking.Data.csproj": {
+                "projectPath": "/home/paco/Dev/csharp/coWorking/coWorking.Data/coWorking.Data.csproj"
+              },
+              "/home/paco/Dev/csharp/coWorking/coWorking.Models/coWorking.Models.csproj": {
+                "projectPath": "/home/paco/Dev/csharp/coWorking/coWorking.Models/coWorking.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/paco/Dev/csharp/coWorking/coWorking.Data/coWorking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/paco/Dev/csharp/coWorking/coWorking.Data/coWorking.Data.csproj",
+        "projectName": "coWorking.Data",
+        "projectPath": "/home/paco/Dev/csharp/coWorking/coWorking.Data/coWorking.Data.csproj",
+        "packagesPath": "/home/paco/.nuget/packages/",
+        "outputPath": "/home/paco/Dev/csharp/coWorking/coWorking.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/paco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/paco/Dev/csharp/coWorking/coWorking.Models/coWorking.Models.csproj": {
+                "projectPath": "/home/paco/Dev/csharp/coWorking/coWorking.Models/coWorking.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/paco/Dev/csharp/coWorking/coWorking.Models/coWorking.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/paco/Dev/csharp/coWorking/coWorking.Models/coWorking.Models.csproj",
+        "projectName": "coWorking.Models",
+        "projectPath": "/home/paco/Dev/csharp/coWorking/coWorking.Models/coWorking.Models.csproj",
+        "packagesPath": "/home/paco/.nuget/packages/",
+        "outputPath": "/home/paco/Dev/csharp/coWorking/coWorking.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/paco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
