@@ -2,6 +2,7 @@
 using coWorking.Models;
 using System.Linq;
 using System;
+using coWorking.Data.Tools;
 
 namespace coWorking.Data
 {
@@ -10,7 +11,6 @@ namespace coWorking.Data
         private JsonManager<User> jsonManager;
 
         public UserData() {
-
             jsonManager = new JsonManager<User>();
         }
 
@@ -28,8 +28,13 @@ namespace coWorking.Data
                 Name = "ADMIN",
                 LastName = "ADMIN",
                 Email = "ADMIN",
-                UserId = Guid.NewGuid()
+                UserId = Guid.NewGuid(),
+                Password = EncryptData.EncryptText("4adm¡n")
             };
+
+            userCOllection.Add(AdminUser);
+            jsonManager.SaveCollection(userCOllection);
+            return true;
         }
     }
 }

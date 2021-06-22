@@ -34,7 +34,7 @@ namespace coWorking.Data
             return myCollection;
         }
 
-        public bool SaveCollection(T collection) {
+        public bool SaveCollection(List<T> collection) {
             string currentPath = Directory.GetCurrentDirectory();
             string collectionPath = $"{currentPath}//{typeof(T)}.josn";
 
