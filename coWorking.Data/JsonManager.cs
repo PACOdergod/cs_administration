@@ -9,7 +9,7 @@ namespace coWorking.Data
         public List<T> GetCollection(){
 
             string currentPath = Directory.GetCurrentDirectory();
-            string collectionPath = $"{currentPath}//{typeof(T)}.josn";
+            string collectionPath = $"{currentPath}//{typeof(T)}.json";
 
             List<T> myCollection = new List<T>();
 
@@ -36,7 +36,7 @@ namespace coWorking.Data
 
         public bool SaveCollection(List<T> collection) {
             string currentPath = Directory.GetCurrentDirectory();
-            string collectionPath = $"{currentPath}//{typeof(T)}.josn";
+            string collectionPath = $"{currentPath}//{typeof(T)}.json";
 
             try
             {

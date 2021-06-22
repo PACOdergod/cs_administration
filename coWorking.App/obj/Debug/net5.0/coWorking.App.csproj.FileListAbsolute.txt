@@ -19,3 +19,4 @@
 /home/paco/Dev/csharp/coWorking/coWorking.App/obj/Debug/net5.0/ref/coWorking.App.dll
 /home/paco/Dev/csharp/coWorking/coWorking.App/obj/Debug/net5.0/coWorking.App.pdb
 /home/paco/Dev/csharp/coWorking/coWorking.App/obj/Debug/net5.0/coWorking.App.genruntimeconfig.cache
+/home/paco/Dev/csharp/coWorking/coWorking.App/bin/Debug/net5.0/Newtonsoft.Json.dll

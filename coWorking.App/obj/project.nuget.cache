@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcLYuQjyzWNW/m4vrtMiiyOcgPuKWkM97f1x15xs78yxC2x1/ZwT8eARsPV96b79RYuz82955oXrEtoVHJF4RA==",
+  "dgSpecHash": "HkAVTbsQdryQaI/7URnU56EgK6jpkHvoFLmZkCAuv9a1b7cybv46q6MTyFH+CiS4SknupLjskpmy4rSFqy4iOw==",
   "success": true,
   "projectFilePath": "/home/paco/Dev/csharp/coWorking/coWorking.App/coWorking.App.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/paco/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

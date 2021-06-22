@@ -23,18 +23,25 @@ namespace coWorking.Data
                 return true;
             }
 
-            var AdminUser = new User()
+            try
             {
-                Name = "ADMIN",
-                LastName = "ADMIN",
-                Email = "ADMIN",
-                UserId = Guid.NewGuid(),
-                Password = EncryptData.EncryptText("4adm¡n")
-            };
+                var AdminUser = new User()
+                {
+                    Name = "ADMIN",
+                    LastName = "ADMIN",
+                    Email = "ADMIN",
+                    UserId = Guid.NewGuid(),
+                    Password = EncryptData.EncryptText("4adm¡n")
+                };
 
-            userCOllection.Add(AdminUser);
-            jsonManager.SaveCollection(userCOllection);
-            return true;
+                userCOllection.Add(AdminUser);
+                jsonManager.SaveCollection(userCOllection);
+                return true;   
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }
